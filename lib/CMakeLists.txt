@@ -1,5 +1,5 @@
 #configure variables
-set (MTCNN_LIB_NAME "mtcnn")
+set (MTCNN_LIB_NAME "opencv_mtcnn")
 
 #configure directories
 set (MTCNN_LIB_PATH "${PROJECT_SOURCE_DIR}/lib")
