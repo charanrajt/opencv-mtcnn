@@ -8,6 +8,6 @@ set (CMAKE_CXX_STANDARD 11)
 set (CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory (lib)
-add_subdirectory (sample)
+#add_subdirectory (sample)
 
 enable_testing()
