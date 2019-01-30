@@ -5,7 +5,7 @@ set (MTCNN_LIB_NAME "opencv_mtcnn")
 set (MTCNN_LIB_PATH "${PROJECT_SOURCE_DIR}/lib")
 set (MTCNN_LIB_SRC_PATH  "${MTCNN_LIB_PATH}/src" )
 set (MTCNN_LIB_INCLUDE_PATH  "${MTCNN_LIB_PATH}/include")
-set (OpenCV_INCLUDE_DIRS /usr/local/eng-sci/opencv/include)
+set (OpenCV_INCLUDE_DIRS /usr/local/eng_sci/opencv/include)
 #find_package(OpenCV REQUIRED)
 
 #set includes
